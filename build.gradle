@@ -7,7 +7,7 @@ plugins {
 ext {
 	groupId = "io.github.typelogic"
 	artifactId = "mylib2"
-	version = "1.1"
+	version = "1.2"
 }
 
 group project.ext.groupId
